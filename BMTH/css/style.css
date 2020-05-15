@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+.logo{
+	background-color:black;
+	color:darkred;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 100px;
+	margin: 0px;
+	height: 200px;
+}
+.cuerpo{
+	margin: 5%;
+}
+
+.side{
+	background-color: bisque;
+	padding:4%;
+	width: 30%;
+	height: 830px;
+	float: left;
+	
+}
+
+.galery2{
+	background-color: cadetblue;
+	width: 60%;
+	height:600px;
+	float: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+.dividir{
+	height: 160%;
+	margin: 5%;
+	
+}
+.partido{
+	background-color: coral;
+	width:30%;
+	float: left;
+	height: 450px;
+}
+
+.body{
+	background-color: coral;
+	width: 68%;
+	float: right;
+	height: 450px;
+
+}
+
+.foot{
+	margin: 5%;
+}
+.vpie{
+	background-color: darkred;
+	padding-bottom: 300px; 
+	text-align: center;
+	width: 30%;
+	float: left;
+	height:300px;
+	margin: 20px;
+}
+
+#uno{
+	background-image: url("../images/bmth1.jpg");
+}
+
