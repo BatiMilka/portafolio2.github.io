@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+.logo{
+	background-color: cadetblue;
+	width: 80%;
+	padding: 60px;
+	text-align: center;
+	margin: 5%;
+		
+}
+.cuerpo{
+	margin: 5%;
+}
+
+.side{
+	background-color: coral;
+	width: 37%;
+	height: 500px;
+	float: left;
+	
+}
+
+.dup{
+	background-color: cadetblue;
+	width: 50%;
+	height: 150px;
+	float: right;
+
+}
+
+.dup2{
+	background-color: coral;
+	width: 50%;
+	height: 320px;
+	float: right;
+}
+.foot{
+	margin: 5%;
+}
+.pie{
+	background-color: cadetblue;
+	text-align: center;
+	width: 99%;
+	float: left;
+	padding: 8px;
+	height: 50px;
+}

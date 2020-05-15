@@ -1,0 +1,56 @@
+@charset "utf-8";
+.encabezado{
+	height: 70px;
+}
+.head{
+	background-color: cadetblue;
+	padding: 20px;
+	width: 45%;
+	float: left;
+	margin-left: 0.5%;
+	text-align: center;
+
+}
+
+.banner{
+	background-color: coral;
+	text-align: center;
+	width: 95%;
+	padding: 5px;
+	margin: 5px;
+
+	
+}
+
+.intro{
+	background-color: cadetblue;
+	padding: 20px;
+	width: 93%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	text-align: center;
+	
+}
+
+.box{
+	background-color: coral;
+	text-align: center;
+	width: 30%;
+	float: left;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	padding: 8px;
+	height: 300px;
+	
+}
+
+.pie{
+	background-color: cadetblue;
+	text-align: center;
+	width: 94%;
+	float: left;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	padding: 8px;
+	height: 50px;
+}
